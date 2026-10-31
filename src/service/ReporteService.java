@@ -45,6 +45,6 @@ public class ReporteService {
     }
 
     public void mostrarCantidadVentas(int cantidad) {
-    System.out.println("Cantidad de ventas registradas: " + cantidad);
+    Console.info("Cantidad de ventas registradas: " + cantidad);
 }
 }
